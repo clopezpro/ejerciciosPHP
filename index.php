@@ -23,11 +23,27 @@
 					<div class="list-group">
 									  <a href="#" class="list-group-item active ">
 									    Ejercicios 
-									  </a>
-									  <a href="#" class="list-group-item">Ejecicio	1</a>
-									  <a href="#" class="list-group-item">Ejecicio	1</a>
-									  <a href="#" class="list-group-item">Ejecicio	1</a>
-									  <a href="#" class="list-group-item">Ejecicio	1</a>
+									  </a> 
+									  <a href="http://localhost/ejerciciosPHP/Ejercicio%201/pedir-fecha.php" class="list-group-item" class="list-group-item">Ejercicio #1</a>
+									  <a href="http://localhost/ejerciciosPHP/Ejercicio%202/ejercicio2.php" class="list-group-item" class="list-group-item">Ejercicio #2</a>
+									  <a href="http://localhost/ejerciciosPHP/Ejercicio%203/Ejercicio3.php" class="list-group-item">Ejercicio #3</a>
+									  <a href="http://localhost/ejerciciosPHP/Ejercicio%203/Ejercicio3.php" class="list-group-item">Ejercicio #4</a>
+									  <a href="#" class="list-group-item">Ejercicio #5</a>
+									  <a href="#" class="list-group-item">Ejercicio #6</a>
+									  <a href="#" class="list-group-item">Ejercicio #7</a>
+									  <a href="#" class="list-group-item">Ejercicio #8</a>
+									  <a href="#" class="list-group-item">Ejercicio #9</a>
+									  <a href="#" class="list-group-item">Ejercicio #10</a>
+									  <a href="#" class="list-group-item">Ejercicio #11</a>
+									  <a href="#" class="list-group-item">Ejercicio #12</a>
+									  <a href="#" class="list-group-item">Ejercicio #13</a>
+									  <a href="#" class="list-group-item">Ejercicio #14</a>
+									  <a href="#" class="list-group-item">Ejercicio #15</a>
+									  <a href="#" class="list-group-item">Ejercicio #16</a>
+									  <a href="#" class="list-group-item">Ejercicio #17</a>
+									  <a href="#" class="list-group-item">Ejercicio #18</a>
+									  <a href="#" class="list-group-item">Ejercicio #19</a>
+									  <a href="#" class="list-group-item">Ejercicio #20</a>
 					</div>
 		
 			</div>
